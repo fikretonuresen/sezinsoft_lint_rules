@@ -1,4 +1,4 @@
-include: package:all_lint_rules_community/all.yaml
+include: all_lint_rules.yaml
 analyzer:
   exclude:
     - "**/*.g.dart"
@@ -23,6 +23,7 @@ analyzer:
 
 linter:
   rules:
+    # Turned off rules:
     always_put_control_body_on_new_line: false
     always_put_required_named_parameters_first: false
     always_specify_types: false
