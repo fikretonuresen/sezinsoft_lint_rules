@@ -1,0 +1,9 @@
+name: sezinsoft_lint_rules
+description: Lint rules for Flutter used internally at Sezinsoft Bilişim Teknolojileri.
+version: 0.0.1
+
+dependencies:
+  all_lint_rules_community: ^0.0.31
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
