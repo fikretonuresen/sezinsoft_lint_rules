@@ -1,5 +1,6 @@
 name: sezinsoft_lint_rules
 description: Lint rules for Flutter used internally at Sezinsoft Bilişim Teknolojileri.
+repository: https://github.com/fikretonuresen/sezinsoft_lint_rules
 version: 0.0.1
 environment:
   sdk: ">=2.19.6 <3.0.0"
