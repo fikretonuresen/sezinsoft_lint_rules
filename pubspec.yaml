@@ -3,6 +3,6 @@ description: Lint rules for Flutter used internally at Sezinsoft Bilişim Teknol
 repository: https://github.com/fikretonuresen/sezinsoft_lint_rules
 version: 0.0.3
 environment:
-  sdk: ">=2.19.6 <3.0.0"
+  sdk: '>=3.4.0 <4.0.0'
 dev_dependencies:
   flutter_lints: ^4.0.0
